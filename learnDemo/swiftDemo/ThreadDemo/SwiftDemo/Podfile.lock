@@ -1,0 +1,29 @@
+PODS:
+  - FMDB (2.7.5):
+    - FMDB/standard (= 2.7.5)
+  - FMDB/standard (2.7.5)
+  - LKDBHelper (2.5.3):
+    - LKDBHelper/standard (= 2.5.3)
+  - LKDBHelper/standard (2.5.3):
+    - FMDB
+  - SnapKit (4.2.0)
+
+DEPENDENCIES:
+  - FMDB
+  - LKDBHelper
+  - SnapKit
+
+SPEC REPOS:
+  trunk:
+    - FMDB
+    - LKDBHelper
+    - SnapKit
+
+SPEC CHECKSUMS:
+  FMDB: 2ce00b547f966261cd18927a3ddb07cb6f3db82a
+  LKDBHelper: 26b47fdd6f4c800ef83c478554829ff8a1da20c5
+  SnapKit: fe8a619752f3f27075cc9a90244d75c6c3f27e2a
+
+PODFILE CHECKSUM: f8b2594bab64d6672f1030f63544342c890a5316
+
+COCOAPODS: 1.8.4

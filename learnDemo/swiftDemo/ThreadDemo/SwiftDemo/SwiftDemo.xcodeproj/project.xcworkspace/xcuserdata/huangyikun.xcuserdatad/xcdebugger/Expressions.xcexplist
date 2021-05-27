@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "MainCV.viewDidLoad():MainCV.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "String(contentsOfFile: path)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "StoreCell.setModel(model:):StoreCell.swift">
+      </ContextState>
+      <ContextState
+         contextName = "ShopCenterMainVC.initView():ShopCenterMainVC.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "CommonUtil.screenWidth">
+            </PersistentString>
+            <PersistentString
+               value = "UIScreen.main.bounds">
+            </PersistentString>
+            <PersistentString
+               value = "CommonUtil.screenWidth/2 - 20*3">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "GroupListVc.numberOfSections(in:):GroupListVc.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "groupList">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MainCV.tableView(_:didSelectRowAt:):MainCV.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "titleArray[indexPath.row]">
+            </PersistentString>
+            <PersistentString
+               value = "NSClassFromString(titleArray[indexPath.row])">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ShopCenterMainVC.collectionView(_:numberOfItemsInSection:):ShopCenterMainVC.swift">
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

@@ -1,0 +1,8 @@
+platform:ios, '9.0'
+
+target "rxSwiftLear" do
+    pod 'RxSwift',    '~> 5.0'
+    pod 'RxCocoa',    '~> 5.0'
+    pod 'SnapKit'
+
+end

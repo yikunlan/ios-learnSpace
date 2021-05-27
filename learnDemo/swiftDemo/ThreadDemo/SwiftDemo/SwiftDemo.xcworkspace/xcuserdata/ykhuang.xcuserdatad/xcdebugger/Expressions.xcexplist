@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "DrawView.touchesBegan(_:with:):DrawView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "lineWidth">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in DrawView.draw(_:):DrawView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "p.lineColor">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "UIBezierPath.lineColor.getter:DrawView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "AssociatedKey.lineColor">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "AnimationLearnVC.touchesBegan(_:with:):AnimationLearnVC.swift">
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

@@ -1,0 +1,17 @@
+platform:ios, '9.0'
+
+target "tongxunlu" do
+    
+    pod 'SVProgressHUD'
+end
+
+# 加入这些配置
+post_install do |installer|
+    installer.pods_project.targets.each do |target|
+        if target.name == "Masonry"
+            target.build_configurations.each do |config|
+                config.build_settings['IPHONEOS_DEPLOYMENT_TARGET'] = '8.0'
+            end
+        end
+    end
+end

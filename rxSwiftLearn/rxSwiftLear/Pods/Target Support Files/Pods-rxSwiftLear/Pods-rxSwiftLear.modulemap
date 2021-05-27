@@ -1,0 +1,6 @@
+module Pods_rxSwiftLear {
+  umbrella header "Pods-rxSwiftLear-umbrella.h"
+
+  export *
+  module * { export * }
+}
